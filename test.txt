@@ -1,0 +1,8 @@
+function hello(a) {
+}
+
+function hi(a, b) {
+}
+
+function greet(a, x) {
+}
